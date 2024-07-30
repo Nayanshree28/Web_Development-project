@@ -1,6 +1,6 @@
-## Web_Development-project
+# Web_Development-project
 This folder contains all the projects I have completed to master the MERN stack and gain a comprehensive understanding of the technology for enhanced growth.
-# Frontend:
+## Frontend:
   - React
   - Redux
   - HTML5
@@ -8,34 +8,34 @@ This folder contains all the projects I have completed to master the MERN stack 
   - JavaScript (ES6+)
   - Bootstrap / Material-UI
   
-# Backend:
+## Backend:
   - Node.js
   - Express.js
   
-# Database:
+## Database:
   - MongoDB
   - Mongoose (ODM)
 
-# Authentication:
+## Authentication:
   - Firebase Authentication API
 
-# Version Control:
+## Version Control:
   - Git
   - GitHub / GitLab / Bitbucket
 
-# Deployment:
+## Deployment:
   - Heroku
   - Netlify
 
-# Package Managers:
+## Package Managers:
   - npm
   - yarn
 
-# Testing:
+## Testing:
   - Jest
   - Mocha / Chai
 
-# Other Tools:
+## Other Tools:
   - Postman (API testing)
   - Webpack (module bundler)
   - Babel (JavaScript compiler)
