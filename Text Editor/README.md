@@ -13,3 +13,5 @@ Welcome to the Rich Text Editor! This application provides a robust platform for
 - **Font Color**: Change the color of the text for visual emphasis.
 - **Headings**: Format text as headings from `h1` to `h6` to create a hierarchical structure.
 
+## Sample Image
+![Screenshot 2024-08-11 180313](https://github.com/user-attachments/assets/2b808e6f-9daf-43f5-868f-7f71c01a190f)
