@@ -1,0 +1,22 @@
+body{
+    background-color: yellow;
+}
+.container{
+    height: 60vh;
+    width: 30%;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    align-items: center;
+}
+h2{
+    padding-top: 70px;
+    font-size: 50px;
+    font-weight: 700;
+}
+button{
+    border-radius: 12px;
+    background-color: red;
+    font-size: 50px;
+    font-weight: 500;
+}
