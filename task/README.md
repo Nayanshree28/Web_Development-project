@@ -1,12 +1,12 @@
-#Description
+# Description
  This project is a simple web page divided into two main sections:
 
-##Upper Part:
+## Upper Part:
 
   Contains a heading to introduce the content or purpose of the web page.
   Includes a picture to visually complement the heading or convey important information.
   
-##Lower Part:
+## Lower Part:
 
  1. Responsive Design: The web page is designed to be responsive, ensuring it looks good on devices of all sizes.
  2. Clear Layout: The division into two parts allows for a clear and structured presentation of content.
