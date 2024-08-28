@@ -12,3 +12,5 @@
   ## Technologies Used
     HTML5: For the structure of the web page.
     CSS3: For styling and layout, including Flexbox and Grid.
+![Screenshot 2024-08-28 232243](https://github.com/user-attachments/assets/666d563e-0b96-4b24-80d0-8df6763e7cfb)
+![Screenshot 2024-08-28 232257](https://github.com/user-attachments/assets/c39c90b1-ee76-407d-a6f3-fc345920fa94)
